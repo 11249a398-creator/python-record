@@ -1,0 +1,6 @@
+d = deque([1, 2, 3])
+print(d)
+d.appendleft(2) # deque([0, 1, 2, 3])
+print(d)
+d.pop() # 3, d is now deque([0, 1, 2])
+print(d)

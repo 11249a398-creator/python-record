@@ -1,0 +1,2 @@
+name="pushpika"
+print(name)
