@@ -1,2 +1,0 @@
-name="pushpika"
-print(name)
